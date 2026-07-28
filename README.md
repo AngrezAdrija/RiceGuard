@@ -1,17 +1,26 @@
-# rice_yield_ai
+# RiceGuard
 
-A new Flutter project.
+RiceGuard is a Flutter-based mobile application for AI-powered rice crop disease detection and future yield estimation.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Capture rice leaf images
+- Upload images from gallery
+- CNN-based disease detection
+- AI prediction report
+- Prediction history
+- Farmer profile management
+- Modular architecture for future yield estimation
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- TensorFlow / Keras
+- Python
+- FastAPI (Planned)
+- OpenCV
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Status
+
+Currently under development.
