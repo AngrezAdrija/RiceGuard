@@ -16,7 +16,7 @@ RiceGuard is a Flutter-based mobile application for AI-powered rice crop disease
 
 - Flutter
 - Dart
-- TensorFlow / Keras
+- TensorFlow 
 - Python
 - FastAPI (Planned)
 - OpenCV
